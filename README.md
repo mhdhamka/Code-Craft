@@ -4,26 +4,26 @@
 
 Code Craft is a lightweight online code editor inspired by Visual Studio Code. It provides a clean development experience with syntax highlighting, multiple programming languages, customizable editor themes, and real-time code editing directly in the browser.
 
-> **⚠️ Project Status:** This project is currently under active development. Features and documentation may change as development continues.
+> **Project Status:** This project is currently under active development. Features and documentation may change as development continues.
 
 ---
 
-## ✨ Features
+## Features
 
-- 💻 Monaco Editor (VS Code Editor)
-- 🎨 Multiple Editor Themes
-- 🌐 Support for Multiple Programming Languages
-- ⚡ Fast UI built with Next.js 15
-- 🔥 TypeScript Support
-- 🌙 Dark Mode
-- 📱 Responsive Design
-- 🔒 Authentication with Clerk 
-- ☁️ Backend powered by Convex 
-- ▶️ Online Code Execution 
+- Monaco Editor (VS Code Editor)
+- Multiple Editor Themes
+- Support for Multiple Programming Languages
+- Fast UI built with Next.js 15
+- TypeScript Support
+- Dark Mode
+- Responsive Design
+- Authentication with Clerk 
+- Backend powered by Convex 
+- Online Code Execution 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -88,7 +88,7 @@ http://localhost:3000
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome.
 
@@ -96,13 +96,13 @@ Feel free to fork the repository and submit a pull request.
 
 ---
 
-## 📄 License
+## License
 
 This project is intended for educational and portfolio purposes.
 
 ---
 
-## 📊 Project Status
+## Project Status
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black)
 ![React](https://img.shields.io/badge/React-19-61DAFB)
