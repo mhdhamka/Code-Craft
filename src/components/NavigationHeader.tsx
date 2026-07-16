@@ -28,7 +28,7 @@ function NavigationHeader() {
                   className="block text-lg font-semibold bg-gradient-to-r
                  from-blue-400 via-blue-300 to-purple-400 text-transparent bg-clip-text"
                 >
-                  CodeForge
+                  Code Craft
                 </span>
                 <span className="block text-xs text-blue-400/60 font-medium">
                   Where Ideas Meet Precision
