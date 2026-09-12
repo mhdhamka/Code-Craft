@@ -90,7 +90,7 @@ git clone https://github.com/mhdhamka/Code-Craft.git
 ### 2. Navigate into the project directory
 
 ```bash
-cd code-craft
+cd Code-Craft
 
 ```
 
