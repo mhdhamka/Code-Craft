@@ -4,6 +4,8 @@
 
 > A modern, browser-based code editor and IDE clone built with React, Vite, TypeScript, and Monaco Editor.
 
+[Live Demo](https://mhdhamka.github.io/Code-Craft/) · [Report Bug](https://github.com/mhdhamka/Code-Craft/issues) · [Request Feature](https://github.com/mhdhamka/Code-Craft/issues)
+
 ![React](https://img.shields.io/badge/React-19-blue)
 ![Vite](https://img.shields.io/badge/Vite-Bundler-purple)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
